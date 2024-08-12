@@ -26,6 +26,10 @@ titles:
 key: page-about
 ---
 
+```javascript
+(() => console.log('Hello, World!'))();
+```
+
 ## 关于本站
 
 建设中
