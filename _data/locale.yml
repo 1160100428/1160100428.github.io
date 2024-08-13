@@ -33,7 +33,7 @@ en-AU:
 ## => Simplified Chinese
 ########################
 zh-Hans: &ZH_HANS
-  SUBSCRIBE               : "订阅"
+  SUBSCRIBE               : "联系作者"
   READMORE                : "阅读更多"
   SEARCH                  : "搜索"
   CANCEL                  : "取消"
